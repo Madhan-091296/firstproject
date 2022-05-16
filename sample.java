@@ -1,3 +1,2 @@
 Hello
 This is my first file
-This is second line
